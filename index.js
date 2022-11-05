@@ -7,7 +7,7 @@ const prefix = '$';
 var botonline = false
 
 //Enter Your Bot Token
-const token = 'MTAzODMzNjY1OTQyMDM2ODkwNg.Gq7-5t.ayKr1GgnGr-1iHLzVFqlfQOgsfpZ9KKeC635n8';
+const token = 'MTAzODMzNjY1OTQyMDM2ODkwNg.GQV3co.jAvHd2qKEiY2boh__lySTBJKh3pV5VX0Lt9Q9Q';
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
